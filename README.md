@@ -7,8 +7,8 @@
 - ## data/predict:
     `predict test image file`
 - ## data/result: 
-    ##### GIT_BERT_*.csv training with GIT-CLIPImageLoader && BERT-Tokenizer
-    ##### GIT_*.csv training with default GIT-base
+    ##### `GIT_BERT_*.csv` training with GIT-CLIPImageLoader && BERT-Tokenizer
+    ##### `GIT_*.csv` training with default GIT-base
     `predict test result .csv file`
     
 ---
